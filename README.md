@@ -28,7 +28,7 @@ Students will build a **basic event booking system** API where users can registe
   }
   ```
 
-- `PUT /events/:id` – (Authenticated) Edit an event
+- `PUT /events/:id` – (Authenticated) Edit an event.
 - `DELETE /events/:id` – (Authenticated) Delete an event
 
 ### 3. **Booking**
